@@ -18,5 +18,3 @@ Looking to:
 Learn more about AI/ML and contribute to open-source projects in these areas.
 Connect with other developers and the open-source community.
 Want to collaborate?
-
-Feel free to reach out!  I'm always interested in learning and working on new projects.
