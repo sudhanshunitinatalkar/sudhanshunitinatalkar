@@ -11,10 +11,7 @@ Neural Networks
 Open Source Software
 PC Building & Hardware Repair (laptops & CPUs)
 
-Current Projects:
-(Add any personal projects you're working on here)
 Looking to:
-
 Learn more about AI/ML and contribute to open-source projects in these areas.
 Connect with other developers and the open-source community.
 Want to collaborate?
