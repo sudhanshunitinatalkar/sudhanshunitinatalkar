@@ -3,6 +3,7 @@ Hi! I'm a first-year student passionate about Artificial Intelligence and Data S
 Tech Stack:
 Linux: Arch Linux user for 3-4 years (big advocate for open-source software!)
 Programming: C, C++, Python
+
 Mobile: Experience rooting Android devices and flashing ROMs
 
 Interests:
