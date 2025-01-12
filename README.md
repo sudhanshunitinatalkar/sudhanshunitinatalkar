@@ -8,7 +8,7 @@
 I'm a passionate technologist and problem-solver who loves exploring the intersection of hardware and software. From building custom ESP32 projects to developing AI solutions, I'm always excited to learn and create something new.
 
 ## 🔭 Projects
-- **Custom ESP32 Gamepad** - Building a Bluetooth gamepad from scratch with integrated battery management
+- **Custom ESP32 Gamepad** - Made a Bluetooth gamepad from scratch with integrated battery management
 - **World Bank Data Analysis System** - Developed an AI-powered insights generation platform
 
 ## 💻 Technical Stack
