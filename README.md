@@ -8,9 +8,8 @@
 I'm a passionate technologist and problem-solver who loves exploring the intersection of hardware and software. From building custom ESP32 projects to developing AI solutions, I'm always excited to learn and create something new.
 
 ## 🔭 Projects
-- **Network Traffic Classification System** - Implementing semi-supervised ensemble metalearning for adaptive network traffic analysis
 - **Custom ESP32 Gamepad** - Building a Bluetooth gamepad from scratch with integrated battery management
-- **World Bank Data Analysis System** - Developing an AI-powered insights generation platform
+- **World Bank Data Analysis System** - Developed an AI-powered insights generation platform
 
 ## 💻 Technical Stack
 
