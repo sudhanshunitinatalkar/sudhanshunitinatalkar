@@ -18,6 +18,7 @@ My focus is on taking complex R&D concepts and architecting them into unbreakabl
 
 | Project / System | Architecture Description | Stack / Tech |
 |------------------|--------------------------|--------------|
+| [**Declarative System Config**](https://github.com/sudhanshunitinatalkar/nixos) | Modular flake-based system configuration managing bare-metal hybrid-graphics (NVIDIA PRIME) and WSL environments. | `NixOS` `Home Manager` |
 | [**IoNixOS**](https://github.com/sudhanshunitinatalkar/IoNixOS) | Declarative backend infrastructure managing custom MQTT servers and remote edge-node deployments. | `NixOS` `MQTT` |
 | [**NixFabOS**](https://github.com/sudhanshunitinatalkar/nixfabos) | Reproducible infrastructure built for automated OTA updates and bare-metal edge caching. | `NixOS` `Docker` |
 | [**Agentic 3D Printing**](https://www.linkedin.com/posts/sudhanshuatalkar_offlineai-edgeai-3dprinting-ugcPost-7383127041887506432-hZXw) | AI-powered, voice-controlled agent for industrial 3D printers using fine-tuned local LLMs. | `Qwen` `Moonraker` |
