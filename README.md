@@ -25,9 +25,3 @@ My focus is on taking complex R&D concepts and architecting them into unbreakabl
 * **AI & Data Pipelines:** Qwen Agent Framework, Local LLMs, PyTorch, NVIDIA RAPIDS (CUDA)
 * **Infrastructure & Hardware:** NixOS, Bare-Metal Provisioning, ESP32/STM32 Firmware Engineering, C/C++
 * **Backend & Deployment:** Python API Systems, Docker, PostgreSQL, ThingsBoard, MQTT, CI/CD, Cloudflare Tunnels
-
-## Current R&D Focus
-
-* Scaling reproducible, declarative deployment pipelines for remote hardware nodes and servers.
-* Integrating offline voice-to-text models with local hardware actions for industrial machinery.
-* Exploring exotic propulsion methods and non-standard physics models for independent hardware projects.
